@@ -1,0 +1,7 @@
+[package]
+name = "PowdrExample"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+powdr={ git="https://github.com/powdr-labs/powdr", branch = "main" }
